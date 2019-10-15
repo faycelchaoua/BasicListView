@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BasicListView</string>
+    <string name="icon">icon</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="img_exp1">Example 1</string>
+    <string name="img_exp2">Example 2</string>
+</resources>
